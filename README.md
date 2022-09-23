@@ -2,11 +2,11 @@
  
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=100&section=header&text=ByunghyunKim&fontSize=40&animation=twinkling)
 
-<h2 align="center">what i can do is</h2>
+<h2 align="center">Skills</h2>
  
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  
-<img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=JAVA&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Tensorflow-0095D5?style=flat-square&logo=Tensorflow&logoColor=white"/></a>  
 <img src="https://img.shields.io/badge/Pytorch-00599C?style=flat-square&logo=Pytorch&logoColor=white"/></a>  
 </p>
@@ -24,9 +24,11 @@
 </p>
 
 
-<h2 align="center">contact to me</h2>
+<h2 align="center">Contact</h2>
 
 <p align="center">
-<a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
-<a href="https://byunghyun23.tistory.com/"><img src="https://img.shields.io/badge/Blog-A9BCF5?style=flat-square&logo=GitHub Sponsors&logoColor=white&link=https://byunghyun23.tistory.com/"/></a>  
+<a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
+<a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
+<a href="https://www.kaggle.com/byunghyun23"><img src="https://img.shields.io/badge/kaggle-1877f2?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/byunghyun23"/</a>
+
 </p>
