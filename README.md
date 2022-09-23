@@ -2,7 +2,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=ByunghyunKim&fontSize=70&animation=twinkling)
 
-<h2 align="center">☾⋆⁺₊⋆💙 what i can do is 💙☾⋆⁺₊⋆</h2>
+<h2 align="center">what i can do is</h2>
  
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>  
@@ -24,7 +24,7 @@
 </p>
 
 
-<h2 align="center">⋆｡ﾟ✶°💜 contact to me 💜⋆｡ﾟ✶°</h2>
+<h2 align="center">contact to me</h2>
 
 <p align="center">
 <a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
