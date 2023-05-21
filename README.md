@@ -24,8 +24,9 @@
 
 <h2 align="center">Machine Learning</h2>
 <p align="center">
-<a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Projects-ff9900?style=flat-square&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
+<a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/ML Projects-ff9900?style=flat-square&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
 <a href="https://github.com/byunghyun23/review-papers"><img src="https://img.shields.io/badge/Review papers-485A62?style=flat-square&logo=Code Review&logoColor=white&link=https://github.com/byunghyun23/review-papers"/></a>
+<a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=flat-square&logo=dev.to&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
 <a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=flat-square&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/</a>
  
 <h2 align="center">About Me</h2>
