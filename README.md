@@ -22,9 +22,9 @@
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Oracle-47A248?style=flat-square&logo=Oracle&logoColor=white"/></a>  
 </p>
 
-<h2 align="center">Machine Learning</h2>
+<h2 align="center">Portfolio Projects</h2>
 <p align="center">
-<a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/ML Projects-ff9900?style=flat-square&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
+<a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=flat-square&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
 <a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=flat-square&logo=dev.to&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
 <a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=flat-square&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/</a>
  
