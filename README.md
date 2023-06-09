@@ -30,7 +30,8 @@
  
 <h2 align="center">About Me (click below)</h2>
 <p align="center">
-<a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
-<a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
 <a href="https://byunghyun23.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-1DBF73?style=flat-square&logo=CV&logoColor=white"/></a>
+<a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
+<a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
+
 </p>
