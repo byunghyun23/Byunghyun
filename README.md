@@ -1,6 +1,21 @@
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbyunghyun23&count_bg=%23A488EB&title_bg=%235A8AE5&icon=atom.svg&icon_color=%23FFFFFF&title=WELCOME&edge_flat=false)](https://hits.seeyoufarm.com)
  
 ![byunghyun23's github stats](https://github-readme-stats.vercel.app/api?username=byunghyun23&show_icons=true&theme=merko)
+-->
+
+<h2 align="center">Projects and Tutorials (click below)</h2>
+<p align="center">
+<a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=flat-square&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
+<a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=flat-square&logo=dev.to&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
+<a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=flat-square&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/</a>
+ 
+<h2 align="center">About Me (click below)</h2>
+<p align="center">
+<a href="https://byunghyun23.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-1DBF73?style=flat-square&logo=CV&logoColor=white"/></a>
+<a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
+<a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
+</p>
 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
@@ -20,18 +35,4 @@
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Oracle-47A248?style=flat-square&logo=Oracle&logoColor=white"/></a>  
-</p>
-
-<h2 align="center">Portfolio (click below)</h2>
-<p align="center">
-<a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=flat-square&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
-<a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=flat-square&logo=dev.to&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
-<a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=flat-square&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/</a>
- 
-<h2 align="center">About Me (click below)</h2>
-<p align="center">
-<a href="https://byunghyun23.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-1DBF73?style=flat-square&logo=CV&logoColor=white"/></a>
-<a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=flat-square&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
-<a href="mailto:byunghyun23@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:byunghyun23@gmail.com"/></a>
-
 </p>
