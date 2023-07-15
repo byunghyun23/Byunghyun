@@ -6,7 +6,7 @@
 
 # 👋 Hellow World! I'm `Machine Learning Engineer`.
 
-## 1️⃣ I'm intereted in
+## 1️⃣ I'm interested in
 - #### Machine Learning
 - #### Deep Learning (`Computer Vision`, Natural Language)
 - #### Data Science
