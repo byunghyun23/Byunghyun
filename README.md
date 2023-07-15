@@ -8,7 +8,7 @@
 
 ## 1️⃣ I'm intereted in
 - #### Machine Learning
-- #### Deep Learning (Computer Vision, Natural Language)
+- #### Deep Learning (`Computer Vision`, Natural Language)
 - #### Data Science
 
 ## 2️⃣ Projects and Tutorials (click below)
