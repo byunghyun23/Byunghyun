@@ -11,7 +11,7 @@
 - #### Deep Learning (`Computer Vision`, Natural Language)
 - #### Data Science
 
-## 2️⃣ Projects and Tutorials (click below)
+## 2️⃣ Projects (click below)
 <p>
  <a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=for-the-badge&logo=&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
  <a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=for-the-badge&logo=&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
