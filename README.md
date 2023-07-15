@@ -6,25 +6,25 @@
 
 # 👋 Hellow World! I'm `Machine Learning Engineer`.
 
-### 1️⃣ I'm intereted in
-- Machine Learning
-- Deep Learning (Computer Vision, Natural Language)
-- Data Science
+## 1️⃣ I'm intereted in
+- #### Machine Learning
+- #### Deep Learning (Computer Vision, Natural Language)
+- #### Data Science
 
-### 2️⃣ Projects and Tutorials (click below)
+## 2️⃣ Projects and Tutorials (click below)
 <p>
  <a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=for-the-badge&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
  <a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=for-the-badge&logo=dev.to&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
  <a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=for-the-badge&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/></a>
 </p>
 
-### 3️⃣ About me (click below)
+## 3️⃣ About me (click below)
 <p>
  <a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=for-the-badge&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
  <a href="https://byunghyun23.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white"/></a>
 </p>
 
-### 3️⃣ Skills
+## 4️⃣ Skills
 <p>
  <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
