@@ -13,8 +13,8 @@
 
 ## 2️⃣ Projects and Tutorials (click below)
 <p>
- <a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=for-the-badge&logo=CodeProject&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
- <a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=for-the-badge&logo=dev.to&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
+ <a href="https://github.com/byunghyun23/machine-learning-projects"><img src="https://img.shields.io/badge/Machine Learning Projects-ff9900?style=for-the-badge&logo=&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
+ <a href="https://github.com/byunghyun23/etc-projects"><img src="https://img.shields.io/badge/Web/App Projects-20C997?style=for-the-badge&logo=&logoColor=white&link=https://github.com/byunghyun23/machine-learning-projects"/></a>
  <a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=for-the-badge&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/></a>
 </p>
 
