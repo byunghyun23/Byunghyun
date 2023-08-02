@@ -24,8 +24,7 @@
  <a href="https://byunghyun23.github.io/CV.pdf"><img src="https://img.shields.io/badge/CV-1DBF73?style=for-the-badge&logo=CV&logoColor=white"/></a>
 </p>
 
-<!-- ## 4️⃣ Skills-->
-## 개발 언어 / 프로그램
+## 4️⃣ Skills
 <p>
  <img src="https://img.shields.io/badge/C-A8B9CC?&style=for-the-badge&logo=C&logoColor=white"/>
  <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
