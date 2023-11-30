@@ -18,6 +18,24 @@
  <a href="https://github.com/byunghyun23/kaggle-competitions"><img src="https://img.shields.io/badge/Competitions-20beff?style=for-the-badge&logo=kaggle&logoColor=white&link=https://github.com/byunghyun23/kaggle-competitions"/></a>
 </p>
 
+<table>
+<tr><th>Summary of Machine Learning Projects</th></tr>
+<tr><td>
+
+| Title | About |
+|--|--|
+| [Fisheye Image Rectification](https://github.com/byunghyun23/GSAFE) | Global Convolutional Neural Networks With Self-Attention for Fisheye Image Rectification |
+| [Sentiment Analysis](https://github.com/byunghyun23/sentiment-analysis) | A Sentiment Analysis Method and System Combining Domain Sentiment Dictionary and Word Embedding Technique |
+| [Epileptic Seizure Detection](https://github.com/byunghyun23/seizure-detection) | A CNN-Attention Model for Epileptic Seizure Detection |
+| [Image Captioning](https://github.com/byunghyun23/image-captioning) | Image Captioning Using Inception-v3 and LSTM |
+| [Music Recommendation](https://github.com/byunghyun23/facial-emotion) | Music Recommendation Based on Facial Emotion Recognition Using MTCNN and VGG-Face |
+| [SRGAN](https://github.com/byunghyun23/super-resolution) | Super-Resolution Based on SRGAN with Sliding Window |
+| [Contrastive Learning](https://github.com/byunghyun23/contrastive-learning) | Contrastive Learning Verification |
+| [Meta Learning](https://github.com/byunghyun23/meta-learning) | Meta Learning with MAML |
+
+</td></tr>
+</table>
+
 ## 3️⃣ About me (click below)
 <p>
  <a href="https://byunghyun23.tistory.com/"><img src="http://img.shields.io/badge/-Blog-green?style=for-the-badge&logo=tistory&link=https://byunghyun23.tistory.com/"/</a>
